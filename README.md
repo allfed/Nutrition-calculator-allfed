@@ -22,7 +22,7 @@ Select 'OK'.
 
 ![step6](https://raw.githubusercontent.com/allfed/Nutrition-calculator-allfed/main/readme_content/step6.png)
 
-For the repository, select 'allfed/Nutrition-calculator-allfed' branch 'main', then click on the item labelled under Path, 'notebooks/example_optimize.ipynb'.
+For the repository, select 'allfed/Nutrition-calculator-allfed' branch 'main', then click on the item labelled under Path, 'notebooks/Food combinations - Charts.ipynb'.
 
 Now follow the instructions in the Jupyter notebook. Run each line of the Jupyter notebook in succession to view results of the paper.
 
