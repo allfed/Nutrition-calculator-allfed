@@ -8,9 +8,7 @@ A model for calculating average global diets in nuclear winter and other catastr
 ### Using Colab (most users use this):
 The interactive model runs off colab. It doesn't require any downloading or code, you just need to hit the right buttons as they show up. Here's a demo:
 
-![step2](https://raw.githubusercontent.com/allfed/Nutrition-calculator-allfed/main/readme_content/step2.png)
-
-Open 'example_optimize.ipynb'
+Open 'Food combinations - Charts.ipynb'
 
 ![step3](https://raw.githubusercontent.com/allfed/Nutrition-calculator-allfed/main/readme_content/step3.png)
 
