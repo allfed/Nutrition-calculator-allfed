@@ -14,8 +14,6 @@ Open 'Food combinations - Charts.ipynb'
 
 Click 'Open in Colab'.
 
-![step4](https://raw.githubusercontent.com/allfed/Nutrition-calculator-allfed/main/readme_content/step4.png)
-
 Select 'Authorize with github'.
 
 ![step5](https://raw.githubusercontent.com/allfed/Nutrition-calculator-allfed/main/readme_content/step5.png)
