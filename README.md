@@ -1,7 +1,7 @@
-allfed-integrated-model
+Nutrition-calculator-allfed
 ==============================
 
-An integrated economic model for resilient foods
+A model for calculating average global diets in nuclear winter and other catastrophes
 
 # Run the model
 
